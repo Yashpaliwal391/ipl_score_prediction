@@ -67,9 +67,6 @@ The IPL Score Prediction model uses machine learning algorithms (Random Forest, 
 ## Contributing
 Contributions to this project are welcome! If you'd like to contribute, please follow our contributing guidelines.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 We would like to acknowledge the open-source community and the creators of libraries and tools that have made this project possible.
 
@@ -77,16 +74,9 @@ Enjoy using the IPL Score Prediction model, and may it enhance your IPL cricket 
 
 
 
-Please replace the following placeholders in the template with actual content:
 
-- `https://your-image-url.com/ipl_logo.png`: Replace with the URL or path to an IPL logo or project-related image.
-- `your-username/ipl-score-prediction.git`: Replace with the actual GitHub repository URL.
-- `data.csv`: Replace with the name of your IPL match data file.
-- `preprocessed_data.csv`: Replace with the name of the preprocessed data file.
-- `model.pkl`: Replace with the name of the saved model file.
-- `match_data.csv`: Replace with the name of the input data file for making predictions.
 
-This README provides an overview of your project, instructions for setting it up, and guidance on how to use it. Users who visit your GitHub repository will find this information helpful in understanding and using your IPL score prediction project.
+
 
 
 
