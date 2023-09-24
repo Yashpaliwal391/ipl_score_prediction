@@ -40,5 +40,6 @@ Before running the project, ensure you have the following prerequisites:
    git clone https://github.com/your-username/ipl-score-prediction.git
 
 ## Usage
+   ```bash
 python preprocess_data.py --input data.csv --output preprocessed_data.csv
 
