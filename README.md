@@ -1,6 +1,6 @@
 # ipl_score_prediction
 
-![IPL Logo](https://images.app.goo.gl/3PHa748xP8MpCtur)
+
 
 Welcome to the IPL Score Prediction project! This project aims to predict the scores of Indian Premier League (IPL) cricket matches using machine learning techniques. By analyzing historical match data, team performance, player statistics, and other factors, this model provides insights into potential match outcomes.
 
